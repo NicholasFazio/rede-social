@@ -1,2 +1,3 @@
-Rede Social Brasileira de Código Aberto
+Rede Social Brasileira Open Source
+
 ===========
